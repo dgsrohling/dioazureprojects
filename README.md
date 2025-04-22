@@ -1,4 +1,4 @@
-# Projeto Azure - Armazenamento de Blobs
+# Projeto Azure - Armazenamento de Blobs (DIO)
 
 ## 🌐 Introdução à Nuvem e Azure
 
@@ -36,5 +36,5 @@ Esse projeto me proporcionou uma visão prática sobre como utilizar os serviço
 
 ---
 
-🔗 *Quer aprender mais? Acesse a plataforma oficial da Microsoft ou leia os artigos em:*  
+🔗 *O link abaixo tem muitos artigos interessantes:*  
 https://web.dio.me/articles
