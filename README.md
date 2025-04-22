@@ -26,7 +26,7 @@ No banco de dados SQL, entendi como funciona a criação da tabela chamada **Pro
 Achei espetacular a criação da funcionalidade que permite fazer o **upload de imagens** diretamente para o **Blob Storage**. Cada imagem é vinculada a um produto no banco de dados, garantindo integridade e acessibilidade via URL pública ou privada, isso é simplesmente fantástico, confesso que nem acreditei que fosse tão simples assim.
 
 ### ✅ Finalizando o Projeto
-Na finalização do projeto o professor fez os testes finais, garantindo que todas as integrações estavam funcionais e seguras. Testou o armazenamento, as conexões com o banco de dados e o acesso às imagens hospedadas no blob. O Projeto concluído com sucesso, eu simplesmente achei impressionante.
+Na finalização do projeto o professor fez os testes finais, garantindo que todas as integrações estavam funcionais e seguras. Testou o armazenamento, as conexões com o banco de dados e o acesso às imagens hospedadas no blob. O Projeto foi concluído com sucesso, eu simplesmente achei fantástico as funcionalidades do Azure.
 
 ---
 
